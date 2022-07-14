@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2project>
-    <name>Bad Time Simulator Reimagined</name>
+    <name>A Beautiful Day Outside</name>
     <description>you really are a freak, huh?</description>
     <version>4.0.0</version>
-    <author>KayoticCarnige</author>
+    <author>aliteralmoron</author>
     <author-email></author-email>
-    <author-website>https://kckarnige.is-a.dev/BadTimeRevamped</author-website>
+    <author-website>https://aliteralmoron2/a-beautiful-day-outside</author-website>
     <app-id>com.kckarnige.btsimre</app-id>
     <unique-id>3pln6vqtdnxgu</unique-id>
     <saved-with-version>28000</saved-with-version>
