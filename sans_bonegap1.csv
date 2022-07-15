@@ -2,8 +2,12 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,1,,,,,,
 0,TLPause,,,,,,,
-0.2,BoneVRepeat,128,257,95,0,180,8,120
-0,BoneVRepeat,128,366,20,0,180,8,120
-0,BoneVRepeat,503,257,95,2,180,8,120
-0,BoneVRepeat,503,366,20,2,180,8,120
-6.4,EndAttack,,,,,,,
+0.2,BoneVRepeat,128,257,95,0,240,8,150
+0,BoneVRepeat,128,366,20,0,240,8,150
+0,BoneVRepeat,503,257,95,2,240,8,150
+0,BoneVRepeat,503,366,20,2,240,8,150
+5.5,BoneVRepeat,128,217,95,0,240,1,150
+0,BoneVRepeat,128,325,95,0,240,1,150
+0,BoneVRepeat,503,217,95,2,240,1,150
+0,BoneVRepeat,503,325,95,2,240,1,150
+1.9,EndAttack,,,,,,,
